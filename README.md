@@ -67,3 +67,11 @@ These define how the system performs its functions — focusing on quality attri
 - The application must handle up to 500 concurrent users.
 - User data must be encrypted and securely stored.
 alx-booking-uc.png
+## Use Case Diagrams
+
+A **Use Case Diagram** visually represents the interactions between system users (actors) and the system’s use cases.  
+It helps clarify the system’s scope and shows how users engage with its functions.
+
+Below is a Use Case Diagram for the **Booking Management System**:
+
+![Booking System Use Case Diagram](./alx-booking-uc.png)
