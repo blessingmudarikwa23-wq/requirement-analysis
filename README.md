@@ -31,3 +31,21 @@ Requirement Analysis is crucial in software development for several reasons:
 
 3. **Improves Product Quality**  
    Well-defined requirements lead to better designs and more accurate testing, resulting in a higher-quality software product.
+## Key Activities in Requirement Analysis
+
+The Requirement Analysis phase includes several key activities:
+
+- **Requirement Gathering:**  
+  Collecting information from stakeholders through interviews, questionnaires, and observations.
+
+- **Requirement Elicitation:**  
+  Extracting detailed requirements using techniques like brainstorming, workshops, or prototyping.
+
+- **Requirement Documentation:**  
+  Recording the collected requirements clearly and formally, usually in a Software Requirements Specification (SRS) document.
+
+- **Requirement Analysis and Modeling:**  
+  Analyzing requirements for clarity, completeness, and feasibility. Modeling tools like flowcharts and UML diagrams are used to visualize them.
+
+- **Requirement Validation:**  
+  Ensuring the documented requirements accurately reflect stakeholder needs and are testable.
