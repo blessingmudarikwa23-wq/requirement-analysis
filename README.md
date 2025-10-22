@@ -93,3 +93,7 @@ They help ensure that requirements are clear, measurable, and testable.
 2. Payment must be processed securely through the integrated gateway.  
 3. Confirmation message and booking ID must display upon successful payment.  
 4. User receives a confirmation email after booking.
+requirement-analysis/
+│
+├── README.md
+└── alx-booking-uc.png
