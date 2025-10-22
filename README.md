@@ -66,8 +66,7 @@ These define how the system performs its functions — focusing on quality attri
 - The system should load search results within 3 seconds.
 - The application must handle up to 500 concurrent users.
 - User data must be encrypted and securely stored.
-alx-booking-uc.png
-## Use Case Diagrams
+  
 
 A **Use Case Diagram** visually represents the interactions between system users (actors) and the system’s use cases.  
 It helps clarify the system’s scope and shows how users engage with its functions.
