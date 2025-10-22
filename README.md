@@ -12,3 +12,10 @@ The contents of this repository cover:
 - Types of requirements
 - Use case diagrams
 - Acceptance criteria examples
+## What is Requirement Analysis?
+
+**Requirement Analysis** is the process of identifying, understanding, and documenting what a software system should do.  
+It involves gathering information from stakeholders such as clients, users, and developers to define the system's goals and features clearly.
+
+This process ensures that the development team and the client have a shared understanding of what needs to be built.  
+It is a critical step in the **Software Development Life Cycle (SDLC)** because it forms the foundation for design, coding, and testing.
